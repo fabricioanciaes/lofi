@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "Casper Theme"
+languageCode = "pt-br"
+title = "Macetes Incríveis"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,21 +10,21 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "Fighting games/Rhythm Games/Shmups/Sei lá"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  author = "lofi1048"
+  authorlocation = "Rio de Janeiro, Brasil"
+  authorwebsite = "http://twitter.com/lofi1048"
+  bio= "Minha vítima, não me ganha"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  RSSLink = ""
+  # githubName = "fabricioanciaes"
+  twitterName = "lofi1048"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "lofi1048"
