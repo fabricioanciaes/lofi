@@ -791,6 +791,11 @@ body.nav-opened .nav {
     height: 38px;
     padding: 1px 0 5px 0;
     width: auto;
+    filter: invert(1);
+}
+
+.no-cover .blog-logo img {
+   filter: invert(0) !important;
 }
 
 .menu-button {
