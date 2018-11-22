@@ -10,14 +10,14 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "Fighting games/Rhythm Games/Shmups/Sei lá"
+  description = "Fighting games/Rhythm Games/Shmups"
   cover = "images/cover.jpg"
   author = "lofi1048"
   authorlocation = "Rio de Janeiro, Brasil"
   authorwebsite = "http://twitter.com/lofi1048"
-  bio= "Minha vítima, não me ganha"
+  bio= "Não tem turbo, não tem macro, não tem talento"
   logo = "images/lofi.svg"
-  googleAnalyticsUserID = "UA-79101-12"
+  googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
   # githubName = "fabricioanciaes"
