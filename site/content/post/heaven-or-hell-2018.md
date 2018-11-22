@@ -22,7 +22,7 @@ Não cometa os mesmos erros que eu hue. Só de não ter feito algumas coisas des
 Heaven or hell 2018 acabou, já cheguei no rio mas achei uma boa escrever isso pra abrir o blog.
 Esse fim de semana foi o HoH 2018, participei em `Guilty gear Xrd Rev2`, `Melty Blood Actress Again Current Code` e `Street Fighter 3: Third Strike`. Foquei pouco nos jogos porque eu tava pulando de jogo em jogo e eu não consegui jogar o quanto queria nas férias. Achei que minha chance de ir melhor ia ser no third strike mas eu fui mal nos 3 HAHAHA.
 
-Pra mim o ponto alto do evento foi o setup de `Beatmania IIDX` (Que na verdade era BMS, rodando Lunatic Rave 2 com o Pacote do Genoside) e SDVX (Rodando K-Shoot MANIA). Pela primeira vez na vida eu pude testar um DJ Dao FP7 com boas teclas. Dá um pouco de tristeza voltar pra casa e jogar no meu JKOC velho. Mas acabou me motivando a tentar chegar de novo onde eu parei. No momento eu tô 3rd dan no controle e 7th dan no teclado mas consegui arranhar umas Normal 9's de BMS. Shoutouts pro [@Fictionalist](twitter.com/fictionalist)
+Pra mim o ponto alto do evento foi o setup de `Beatmania IIDX` (Que na verdade era BMS, rodando Lunatic Rave 2 com o Pacote do Genoside) e SDVX (Rodando K-Shoot MANIA). Pela primeira vez na vida eu pude testar um DJ Dao FP7 com boas teclas. Dá um pouco de tristeza voltar pra casa e jogar no meu JKOC velho. Mas acabou me motivando a tentar chegar de novo onde eu parei. No momento eu tô 3rd dan no controle e 7th dan no teclado mas consegui arranhar umas Normal 9's de BMS. Shoutouts pro [@Fictionalist](http://twitter.com/fictionalist)
 
 Sobre os jogos de luta em si, acho que foi muito bacana rever a galera que você troca ideia no Discord todos os dias e gente que você vê só de vez em quando IRL também. Alguns colegas de FGC do RJ tavam lá também.
 
@@ -64,7 +64,7 @@ Fico muito feliz porque temos pessoas assim na comunidade se esforçando dessa m
 
 Sei lá, acho que eu vou jogar uns shmups. Tentar meu 1cc em `espgaluda`. Seria meu primeiro shmup com 1cc. Devo continuar com meu projeto do controle de IIDX. Idas ao Beer reversal (Com stream agora? torcemos que sim).
 
-Quanto a jogos de luta...hmm...Quero jogar `Fighting EX Layer` quando sair pra PC, provavelmente vou continuar focando em melty porque o netcode é bom e tem uma competição excelente, tem gente pra jogar offline. E por falar em melty, shoutouts pro [@Inso_](twitter.com/Inso_) por ter ganhado melty. Shoutouts pro Musketeer por ter ficado em 2nd no BBTAG e 3rd no Blazblue CF.
+Quanto a jogos de luta...hmm...Quero jogar `Fighting EX Layer` quando sair pra PC, provavelmente vou continuar focando em melty porque o netcode é bom e tem uma competição excelente, tem gente pra jogar offline. E por falar em melty, shoutouts pro [@Inso_](http://twitter.com/Inso_) por ter ganhado melty. Shoutouts pro Musketeer por ter levado duas plaquinhas pra casa.
 
 3s com certeza continuarei jogando enquanto tiver gente pra jogar contra. Quero subir nesse jogo porque vejo uma boa oportunidade de melhorar em fighting games no geral através dele.
 
