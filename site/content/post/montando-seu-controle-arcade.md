@@ -19,6 +19,7 @@ Ela já vem com toda fiação pronta, seu único trabalho será plugar os fios n
 
 
 > **ATENÇÃO:** NÃO ESQUEÇA DE COMPRAR MOUNTING PLATE RETA BALLTOP E COVER SHAFT
+> ![https://i.imgur.com/0inIabJ.png](https://i.imgur.com/0inIabJ.png)
 
 
 - [Sanwa JLF](https://akishop.jp/products/jlf-tp-8y-custom)
