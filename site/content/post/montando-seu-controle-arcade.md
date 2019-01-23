@@ -53,8 +53,9 @@ Essa PCB já vem com os fios prontos
 ###### Mercado Livre:
 Essa parte aqui você tem mais liberdade pra escolher, mas se eu for recomendar uma caixa eu diria esta aqui:
 
+- [Caixa para controle arcade tgm](https://produto.mercadolivre.com.br/MLB-1162624508-caixa-controle-arcade-tgm-mod2-em-mdf-com-tampa-ps-cristal-_JM?quantity=1)
 
-- [Caixa para controle arcade tgm](https://produto.mercadolivre.com.br/MLB-1031177537-caixa-controle-arcade-tgm-mod2-mdf-laminado-acrilico-2mm-_JM?quantity=1)
+> Peça essa caixa com um furo de 24mm na parte frontal para o neutrik (especifique é para neutrik) E escolha seu layout direitinho.
 
 Aqui tem umas observações que acho que valem a pena fazer. Essa caixa na foto está com layout do vewlix (baseado nos gabinetes de arcade da taito, da era do SF4 pra frente)
 
