@@ -48,7 +48,7 @@ Recomendo também que entre no nosso discord para achar partidas:
 ## Extras:
 
 <div style="border:2px solid #d61e1e; padding: 0.2rem 1rem; color:#d61e1e; width:100%; border-radius: 0.25rem;">
-<p>
+<p style="margin:0; padding:0; line-height:1.6;">
 ESSES MODOS SÃO OPCIONAIS, VOCÊ NÃO PRECISA USAR ELES, SÃO UMA MANEIRA ALTERNATIVA DE CONECTAR.
 </p>
 </div>
