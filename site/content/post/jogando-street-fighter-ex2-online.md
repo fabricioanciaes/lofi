@@ -6,13 +6,13 @@ Esse guia é feito pra ser a maneira mais fácil de jogar SFEX2+ online. Já tem
 
 Recomendo também que entre no nosso discord para achar partidas:
 
-[http://discord.me/sfex2pbrasil](http://discord.me/sfex2pbrasil)
+[http://discord.me/ex2pbrasil](http://discord.me/sfex2pbrasil)
 
----
+- - -
+
 <a href="https://www.mediafire.com/file/2x1ggf3wctie4j8/SFEX2P_Netplay.rar/file">
 <h1>Link de download do emulador</h1>
 </a>
-
 
 ## Configurando os controles e colocando seu nick.
 
@@ -30,7 +30,6 @@ Recomendo também que entre no nosso discord para achar partidas:
 ![Configuração de controle](https://cdn.discordapp.com/attachments/535317795395862548/538850249213739008/unknown.png)
 
 5. Aperte T, subirá uma caixa de texto no emulador, digite `/nick seunickaqui`
-
 6. Feche o emulador
 
 ## Conectando com outra pessoa
@@ -43,7 +42,7 @@ Recomendo também que entre no nosso discord para achar partidas:
 
 > Basta seu oponente repetir os mesmos passos para conectar com você, tenham certeza de combinar de usar a mesma gamekey.
 
-----
+- - -
 
 ## Extras:
 
@@ -51,9 +50,11 @@ Recomendo também que entre no nosso discord para achar partidas:
 <p style="margin:0; padding:0; line-height:1.6;">
 ESSES MODOS SÃO OPCIONAIS, VOCÊ NÃO PRECISA USAR ELES, SÃO UMA MANEIRA ALTERNATIVA DE CONECTAR.
 </p>
-</div>
+
+</div>
 
 #### Pra que servem os outros modos?
+
 Os modos com self hosted funcionam um pouco diferente, a opção `3: [Self hosted] Host match` Abrirá uma instância do servidor do mednafen e colocará uma gamekey padrão de `1234`
 
 O opção `2: [Self hosted] Connect` irá perguntar o ip do servidor do oponente e usar a gamekey padrão de `1234`.
