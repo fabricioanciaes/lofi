@@ -6,7 +6,7 @@ Esse guia é feito pra ser a maneira mais fácil de jogar SFEX2+ online. Já tem
 
 Recomendo também que entre no nosso discord para achar partidas:
 
-[http://discord.me/ex2pbrasil](http://discord.me/sfex2pbrasil)
+[https://discord.io/ex2brasil](https://discord.io/ex2brasil)
 
 - - -
 
