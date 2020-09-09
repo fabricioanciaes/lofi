@@ -14,9 +14,9 @@ Se por algum motivo as roms não estiverem sendo baixadas, rode de novo esse scr
 Eu não vou pagar pra ser flaggeado como programa seguro hue. Se estiver desconfiado pode olhar o source code (tá meio spaghetti code porque eu fiz rápido)
 
 #### Download:
-- # [Instalador em PT-BR](https://drive.google.com/file/d/1kujwVCDH_EEoSKDg5C4IIFW-TIhD311r/view?usp=sharing)
-- ### [EN-US Installer](https://drive.google.com/file/d/1kujwVCDH_EEoSKDg5C4IIFW-TIhD311r/view?usp=sharing)
-- [Source Code/Código fonte](https://drive.google.com/file/d/1_-8jyPOIeKMnLJuZwWjndpwC_1pwTa98/view?usp=sharing) (Se você não for programador pode ignorar esse)
+# [Instalador em PT-BR](https://drive.google.com/file/d/1kujwVCDH_EEoSKDg5C4IIFW-TIhD311r/view?usp=sharing)
+### [EN-US Installer](https://drive.google.com/file/d/1kujwVCDH_EEoSKDg5C4IIFW-TIhD311r/view?usp=sharing)
+###### [Source Code/Código fonte](https://drive.google.com/file/d/1_-8jyPOIeKMnLJuZwWjndpwC_1pwTa98/view?usp=sharing) (Se você não for programador pode ignorar esse)
 
 ---
 
