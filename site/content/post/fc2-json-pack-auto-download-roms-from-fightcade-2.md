@@ -20,8 +20,6 @@ If something goes wrong, make sure to delete the rom inside the respective emula
 
 ### Changelog:
 
-**10/20/2020 update (v2):**
+**10/21/2020 update (v3):**
 
-- Fixed most of the known broken snes games, now they are using the correct rom.
-- Added SNES hacks: Ranma II Hard Battle, TMNT:TF CE, Sailor Moon S Big Zam Edition and Sailor Moon Fighter S.
-- Moved the json files to newchallenger.net (Thanks Tobemorecrazy!)
+- Added flycast json with all listed FC2 games + bios
