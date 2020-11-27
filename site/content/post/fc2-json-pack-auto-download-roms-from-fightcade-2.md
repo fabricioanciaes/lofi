@@ -4,7 +4,7 @@ date: '2020-11-20T01:36:22-03:00'
 ---
 ### Download `fc2roms.zip` and extract the `.json` files in the `Fightcade/emulator` folder just like the images on the How to use it section:
 
-# [Download the fc2roms.zip](newchallenger.net/fc2/fc2roms.zip)
+# [Download the fc2roms.zip](//newchallenger.net/fc2/fc2roms.zip)
 
 **If the script breaks for some reason come back here and check if there's a newer one.**
 
