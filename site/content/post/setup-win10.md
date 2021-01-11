@@ -1,3 +1,7 @@
+---
+title: Como eu preparo meu pc depois de instalar win10
+date: '2021-01-11T17:46:01Z'
+---
 Isso é um conjunto de scripts e ferramentas que eu uso pra instalar os programas que eu preciso da maneira mais rápida e preguiçosa possível, eu só rodo isso aqui tudo:
 ### Script de debloat do windows 10:
 Roda no powershell como admin:
