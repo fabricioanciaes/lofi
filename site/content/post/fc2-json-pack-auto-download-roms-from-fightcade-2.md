@@ -16,9 +16,28 @@ If this link gives you a HTTPS error, make sure to click on advanced and then cl
 ---
 ### Changelog:
 
-**10/21/2020 update (v3):**
+**FRM JSON Pack - 2/15/2021 (v4)**
 
-- Added flycast json with all listed FC2 games + bios
+
+
+- Fixed some SNES games:
+  - samshou.zip
+  - samspir.zip
+  - sf2tua.zip
+  - sf2u.zip
+  - ssf2u.zip
+
+
+
+- Added the latest version of SF2MIX directly from their download link, it should always grab the latest rom
+
+
+
+
+- Added sfa3aism.zip, a sfa3 hack that is A-ISM locked, its not yet supported by FC2 as of this release. But maybe in the next fc2 updates it will be added as a room.
+
+
+
 ---
 
 ### How to use it:
