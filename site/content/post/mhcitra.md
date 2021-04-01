@@ -36,7 +36,7 @@ date: '2021-04-01T00:48:26Z'
 ### Descriptografando os CIAs
 Dentro da pasta do emulador eu coloquei uma pasta `CIAs`, dentro dessa pasta tem um arquivo `.bat` e uma pasta `roms`. Coloque os arquivos .cia que você baixou dentro da pasta `roms`, rode o script, escolha a **opção 1** e aperte enter. Só esperar.
 
-Depois de terminad os CIAs descriptografados irão aparecer na pasta `output`.
+Depois de terminas os CIAs descriptografados irão aparecer na pasta `output`.
 Abra o `citra-qt.exe`, vá em `File > Install CIAs` e escolha os CIAs descriptografados que estão na pasta `output`.
 
 Depois disso os jogos devem aparecer na sua lista de jogos logo na tela inicial do Citra.
@@ -48,12 +48,14 @@ Esses cheats (tirando o 30fps lock do MH4U) são essenciais pro jogo rodar legal
 
 **MHXX**
 - 60 FPS Unlock
+
 ```
 0088E584 EEF01A49
 ```
 
 **MH4U**
 - Remove 3D (Aumenta FPS Drasticamente)
+
 ```
 610572CC 00000000
 B10572CC 00000000
@@ -61,6 +63,7 @@ B10572CC 00000000
 D2000000 00000000
 ```
 - 30 FPS LOCK (pra pcs fracos e celulares)
+
 ```
 61057194 00000000
 B1057194 00000000
