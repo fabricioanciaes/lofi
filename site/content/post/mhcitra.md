@@ -34,7 +34,7 @@ date: '2021-04-01T00:48:26Z'
 ----
 
 ### Descriptografando os CIAs
-Dentro da pasta do emulador eu coloquei uma pasta `CIAs`, dentro dessa pasta tem um arquivo `.bat` e uma pasta `roms`. Coloque os arquivos .cia que você baixou dentro da pasta `roms`, rode o script, escolha a **opção 1** e aperte enter. Só esperar.
+Dentro da pasta do emulador eu coloquei uma pasta `CIAs`, dentro dessa pasta tem um arquivo `.bat` e uma pasta `roms`. Coloque os arquivos .cia que você baixou dentro da pasta `roms`, rode o script, escolha a **opção 1, Decrypt/Encrypt**  e aperte enter, depois a **opção 3, Decrypt CIA (Experimental)**, Só esperar.
 
 Depois de terminas os CIAs descriptografados irão aparecer na pasta `output`.
 Abra o `citra-qt.exe`, vá em `File > Install CIAs` e escolha os CIAs descriptografados que estão na pasta `output`.
