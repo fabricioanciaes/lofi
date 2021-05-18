@@ -4,12 +4,13 @@ date: '2021-04-01T00:48:26Z'
 ---
 
 ### Download do emulador
-[Rasp's Citra custom build 1472](https://z.zz.ht/dzz4w.7z)
+[Rasp's Citra custom build 1472](https://mega.nz/file/t0s2FYiC#MTMRbMVaqfvfXxtBnpRECzbIQzRYhOkstakvt_2s8SU)
+[Batch pra desencriptar os jogos (.CIA/.3DS)](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/download?version=35152)
 
 ### Download dos CIA
-- [MHXX (Base)](https://hshop.erista.me/landing.html?id=1362)
+- [MHXX (Base)](https://hshop.erista.me/landing?id=20134)
 - [MHXX (English patch V5 + Update)](https://hshop.erista.me/landing.html?id=6774)
-- [MH4U (Base)](https://hshop.erista.me/landing.html?id=2121)
+- [MH4U (Base)](https://hshop.erista.me/landing?id=2120)
 - [MH4U (Update 1.4)](https://hshop.erista.me/landing?id=2860)
 
 ### Download das Texturas HD
@@ -34,10 +35,12 @@ date: '2021-04-01T00:48:26Z'
 ----
 
 ### Descriptografando os CIAs
-Dentro da pasta do emulador eu coloquei uma pasta `CIAs`, dentro dessa pasta tem um arquivo `.bat` e uma pasta `roms`. Coloque os arquivos .cia que você baixou dentro da pasta `roms`, rode o script, escolha a **opção 1, Decrypt/Encrypt**  e aperte enter, depois a **opção 3, Decrypt CIA (Experimental)**, Só esperar.
 
-Depois de terminas os CIAs descriptografados irão aparecer na pasta `output`.
-Abra o `citra-qt.exe`, vá em `File > Install CIAs` e escolha os CIAs descriptografados que estão na pasta `output`.
+Pegue o batch pra desencriptar os arquivos cia/3ds, coloque seus CIA dos updates e do jogo base todos dentro da pasta do Batch CIA 3DS Decryptor e rode o batch, ele automaticamente vai processar esses arquivos e remover a criptografia deles.
+
+Video de exemplo: https://www.youtube.com/watch?v=XmWkReCT_34
+
+Abra o `citra-qt.exe`, vá em `File > Install CIAs` e escolha os CIAs descriptografados que você acabou de fazer.
 
 Depois disso os jogos devem aparecer na sua lista de jogos logo na tela inicial do Citra.
 
