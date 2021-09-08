@@ -8,7 +8,7 @@ date: '2020-11-20T01:36:22-03:00'
 
 If this link gives you a HTTPS error, make sure to click on advanced and then click _proceed to..._
 
-
+If you enjoy my work with either this or the other stuff I do you can support me here: https://ko-fi.com/lofi1048
 
 
 **If the script breaks for some reason come back here and check if there's a newer one.**
@@ -16,27 +16,24 @@ If this link gives you a HTTPS error, make sure to click on advanced and then cl
 ---
 ### Changelog:
 
-**FRM JSON Pack - 2/15/2021 (v4)**
+**FRM JSON Pack - 9/7/2021 (v5)** 
 
+Biggest Update ever, after a few days of non-stop working, all games were reuploaded to a better server
+(thanks tobemorecrazy!) and some json files even made from scratch
 
+- All games were reuploaded
+- Quicker downloads
+- All flycast naomi and atomiswave games should work
+- Preemptive support for upcoming external save states (Getting ready for Flycast GGPO)
+- NES roms will be fixed in a future update (thats on frm side)
 
-- Fixed some SNES games:
-  - samshou.zip
-  - samspir.zip
-  - sf2tua.zip
-  - sf2u.zip
-  - ssf2u.zip
+I also made a ko-fi page if for some reason you want to support me, although I encourage you to
+support the fightcade devs, flyinghead (flycast dev) and blueminder (flycast-dojo dev) first!
 
+https://ko-fi.com/lofi1048
 
-
-- Added the latest version of SF2MIX directly from their download link, it should always grab the latest rom
-
-
-
-
-- Added sfa3aism.zip, a sfa3 hack that is A-ISM locked, its not yet supported by FC2 as of this release. But maybe in the next fc2 updates it will be added as a room.
-
-
+Please report the games that arent working through a dm on twitter (@lofi1048)
+I need to figure out a better way to keep track of this lol.
 
 ---
 
