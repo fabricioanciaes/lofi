@@ -9,7 +9,7 @@ date: '2020-11-20T01:36:22-03:00'
 If you enjoy my work with either this or the other stuff I do you can support me here: https://ko-fi.com/lofi1048
 <a href="https://ko-fi.com/lofi1048"><image src="https://i.imgur.com/T2KqPMB.gif" width="240" height="70.5"></a>
 
-If this link gives you a HTTPS error, make sure to click on advanced and then click _proceed to..._
+If the json file link gives you a HTTPS error, make sure to click on advanced and then click _proceed to..._
 
 **If the script breaks for some reason come back here and check if there's a newer one.**
 
