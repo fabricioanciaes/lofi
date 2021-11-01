@@ -21,15 +21,18 @@ Added a ton of missing games after I managed to automate the process of checking
 
 (NEW) Flycast games:
 
+
 flycast_anmlbskt, flycast_basschal, flycast_blokpong, flycast_claychal, flycast_dirtypig, flycast_rangrmsn, flycast_salmankt, flycast_sprtshot, flycast_sushibar, flycast_vfurlong, flycast_waidrive, flycast_dc_ready2rumbleboxing, flycast_dc_sonicadventure2, flycast_dc_spf2x, flycast_dc_thps2, flycast_dc_totd_usa, flycast_dc_vonot, flycast_dc_ready2rumbleboxing_r2, flycast_dragntr3, flycast_manicpnc, flycast_mushi2k4, flycast_mushi2k5, flycast_mushik4e, flycast_mushike, flycast_samba, flycast_shaktam, flycast_shaktmsp, flycast_shors2k1, flycast_shors2k2, flycast_shorse, flycast_shorsep, flycast_tduno, flycast_vtennis, flycast_quizqgd, flycast_mvsc2_ratio_v3
 
 (NEW) FBNeo games:
+
 
 ssf2tnl, xmcotabh, nbamht, vsavae, mshbh, wwfmania, nbahangt, openice, hsf2pp, wwfmanac, msvsfbh, mvscbh, vampjbh, sfa3sp2, jojobanrb, mslug2ct, mslug5x, mslugxeb, mslugxsrf, kof97ae, ddsoma4ppdec, spf2xpri, mslug4lw, mslug2r, mslug3c, mslug5mg, mslug5c, mslugxlb, brkrevext
 
 Still missing games, Contact me on twitter (@lofi1048) if you have these roms:
 
 FBNEO:
+
 
 kof97t    -> The King of Fighters '97 Random Select Optimized Edition (Hack)
 
@@ -52,6 +55,8 @@ mslugxc2  -> Metal Slug X [Enemy Remastered] [Hack]
 wc90      -> World Cup '90 (World)
 
 FLYCAST:
+
+
 Faster Than Speed (Flycast) (ATOMISWAVE)      -> flycast_ftspeed
 
 Maximum Speed (Flycast) (ATOMISWAVE)	      -> flycast_maxspeed
