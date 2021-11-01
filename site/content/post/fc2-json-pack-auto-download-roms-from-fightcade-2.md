@@ -7,7 +7,9 @@ date: '2020-11-20T01:36:22-03:00'
 # [Download the fc2roms.zip](https://newchallenger.net/fc2/fc2roms.zip)
 
 If you enjoy my work with either this or the other stuff I do you can support me here: https://ko-fi.com/lofi1048
-<a href="https://ko-fi.com/lofi1048"><image src="https://i.imgur.com/T2KqPMB.gif" width="240" height="70.5"></a>
+
+
+[![buy me a coffee](https://i.imgur.com/T2KqPMB.gif)]("https://ko-fi.com/lofi1048")
 
 If the json file link gives you a HTTPS error, make sure to click on advanced and then click _proceed to..._
 
