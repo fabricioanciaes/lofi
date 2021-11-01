@@ -72,6 +72,7 @@ Shootout Pool Prize (Flycast) (NAOMI)	      -> flycast_shootpl
 Star Horse Progress Returns (Flycast) (NAOMI) -> flycast_shorsepr
 
 
+**Total count**
 We're still missing 99 games in total (plus the ones that are there but dont work lol):
 
 
