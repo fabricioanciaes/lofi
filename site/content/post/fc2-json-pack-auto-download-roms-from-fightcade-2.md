@@ -18,18 +18,19 @@ If the json file link gives you a HTTPS error, make sure to click on advanced an
 ---
 ### Changelog:
 
-**FRM JSON Pack - 10/31/2021 (v6)**
-Added a ton of missing games after I managed to automate the process of checking for missing games
-
-(NEW) Flycast games:
+**FRM JSON PACK - 11/02/2021 (V7)**
 
 
-flycast_anmlbskt, flycast_basschal, flycast_blokpong, flycast_claychal, flycast_dirtypig, flycast_rangrmsn, flycast_salmankt, flycast_sprtshot, flycast_sushibar, flycast_vfurlong, flycast_waidrive, flycast_dc_ready2rumbleboxing, flycast_dc_sonicadventure2, flycast_dc_spf2x, flycast_dc_thps2, flycast_dc_totd_usa, flycast_dc_vonot, flycast_dc_ready2rumbleboxing_r2, flycast_dragntr3, flycast_manicpnc, flycast_mushi2k4, flycast_mushi2k5, flycast_mushik4e, flycast_mushike, flycast_samba, flycast_shaktam, flycast_shaktmsp, flycast_shors2k1, flycast_shors2k2, flycast_shorse, flycast_shorsep, flycast_tduno, flycast_vtennis, flycast_quizqgd, flycast_mvsc2_ratio_v3
+Now the json file downloads the save files for flycast games (around 46 games are in the list) straight from the
+github flycast community save file github repository (https://github.com/blueminder/flycast-netplay-savestates) (thanks blueminder)
 
-(NEW) FBNeo games:
+I also found out that the order you put them in the required array DOES matter lol. Save states werent being downloaded on the /data/
+folder the first time you booted the game if you listed a CHD file before the save state requirement. It seems to be a FRM bug.
 
 
-ssf2tnl, xmcotabh, nbamht, vsavae, mshbh, wwfmania, nbahangt, openice, hsf2pp, wwfmanac, msvsfbh, mvscbh, vampjbh, sfa3sp2, jojobanrb, mslug2ct, mslug5x, mslugxeb, mslugxsrf, kof97ae, ddsoma4ppdec, spf2xpri, mslug4lw, mslug2r, mslug3c, mslug5mg, mslug5c, mslugxlb, brkrevext
+Added Vigilante 8 2nd offense to flycast games too.
+
+
 
 Still missing games, Contact me on twitter (@lofi1048) if you have these roms:
 
