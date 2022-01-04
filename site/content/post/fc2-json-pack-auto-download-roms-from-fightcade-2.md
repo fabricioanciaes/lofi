@@ -18,18 +18,12 @@ If the json file link gives you a HTTPS error, make sure to click on advanced an
 ---
 ### Changelog:
 
-**FRM JSON PACK - 11/02/2021 (V7)**
+**FRM JSON PACK - 01/04/2022 (V8)**
 
 
-Now the json file downloads the save files for flycast games (around 46 games are in the list) straight from the
-github flycast community save file github repository (https://github.com/blueminder/flycast-netplay-savestates) (thanks blueminder)
-
-I also found out that the order you put them in the required array DOES matter lol. Save states werent being downloaded on the /data/
-folder the first time you booted the game if you listed a CHD file before the save state requirement. It seems to be a FRM bug.
-
-
-Added Vigilante 8 2nd offense to flycast games too.
-
+- Fixed puyofev chd files and puyoda save state on flycast (Thanks Xkower8181)
+- Fixed monkeyba chd files (Thanks Xkower8181)
+- Updated some fbneo hacks: msvsfbh, mvscbh, sfa3sp2, mshbh, vampjbh, vsavae, xmcotabh (thanks Tobemorecrazy)
 
 
 Still missing games, Contact me on twitter (@lofi1048) if you have these roms:
