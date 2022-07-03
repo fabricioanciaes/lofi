@@ -75,3 +75,20 @@ Download `fc2roms.zip` and extract the `.json` files in the `Fightcade/emulator`
 To download a game, just join a room and if you don't have the rom already it will auto download for you.
 
 If something goes wrong, make sure to delete the rom inside the respective emulator folder, delete the problematic rom itself and some tmp files that might be there.
+
+----
+
+### Fixing the `Unknown encoding: CP655001` Error
+
+Sometimes the built in downloader from fightcade just wont work on some systems
+usually this is manifested by the console quickly closing without downloading the game, you can catch a glimpse of what happens:
+
+![Unknown encoding: CP655001](https://cdn.discordapp.com/attachments/867081421531906059/993218694765355008/2022-07-03_134605.png)
+
+Steps to fix:
+
+1) Go to control panel and click "Clock and Region"
+2) Click "Region"
+3) Click the Administrative tab and then click the "Change system locale..." button
+4) Uncheck the button for "Beta: Use Unicode UTF-8 for worldwide language support"
+5) Restart computer
