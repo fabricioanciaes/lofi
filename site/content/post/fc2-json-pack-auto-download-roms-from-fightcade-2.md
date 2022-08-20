@@ -18,51 +18,10 @@ If the json file link gives you a HTTPS error, make sure to click on advanced an
 ---
 ### Changelog:
 
-**FRM JSON PACK - 06/24/2022 (V10)**
+**FRM JSON PACK - 20 Aug 2022 (V10)**
 
-
-- Included naomi 2 roms (All versions of Virtua fighter 4 + Beach Spikers and Virtua Striker 3)
-- Reuploaded over 1200 roms that needed minor fixes (removing unused archives inside their zips), Thanks *anonymous*
-- Fixed 50 roms that were broken
-- Fixed rom dependencies for the following hacks:
-
-```
-sfa3aism,
-xmcotabh,
-vsavae,
-mshbh,
-hsf2pp,
-wwfmanac,
-msvsfbh,
-mvscbh,
-vampjbh,
-sfa3sp2,
-brkrevext,
-marmatcp,
-cybotsam,
-kof98ratio,
-mslug3rb,
-mslug4ar,
-mslug5sgf,
-mslug5wd,
-sfiii2bh,
-sfiii3bh,
-sfiii2bh,
-sfz3mix,
-umk3p,
-umk3uk,
-dinore,
-doubledrsp,
-kof2k1rp,
-mslug2unity,
-mslug3unity,
-mslug4unity,
-mslug5unity,
-mslugunity,
-mslugxunity,
-ssf2xjr1trn,
-```
-
+- Fixed incorrect NES rom identifiers in fbneo_nes_roms.json. NES downloads should now work properly (Thanks nooksookhao)
+- Fixed ultra clay fighter (Thanks tobemorecrazy)
 
 ### How to use it:
 
