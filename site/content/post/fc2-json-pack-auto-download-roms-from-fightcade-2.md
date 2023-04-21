@@ -18,7 +18,7 @@ If the json file link gives you a HTTPS error, make sure to click on advanced an
 ---
 ### Changelog:
 
-**FRM JSON PACK - 20 Aug 2022 (V10)**
+**FRM JSON PACK - 21 APR 2023 (V11)**
 Sorry for the huge delay, was a little bit busy but I'm back with some fixes:
 
 ```
